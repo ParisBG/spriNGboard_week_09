@@ -4,7 +4,6 @@
 #include <sstream>
 
 using namespace std;
-//Stopped on line 295
 
 std::ostream & operator<< (std::ostream & ostr, Category const & category)
 {
