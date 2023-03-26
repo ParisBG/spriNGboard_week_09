@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/paris/ngc/kev9/src/game_lib/Game.cpp
+Game.h
+/home/paris/ngc/kev9/src/game_lib/Game.h
+iostream
+-
+sstream
+-
+
+/home/paris/ngc/kev9/src/game_lib/Game.h
+deque
+-
+functional
+-
+iostream
+-
+list
+-
+string
+-
+vector
+-
+
